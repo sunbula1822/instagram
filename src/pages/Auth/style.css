@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+.instagram-font {
+    font-family: Cookie, cursive;
+}
+
+.bg-blue-inst {
+    background: #005c98;
+   
+}
+
+.text-blue-inst {
+    color: #980030;
+}
+
+
+.bg-blue-500{
+    background: #1500ff;
+}
+.bordered{
+    border-radius: 20px !important;
+    padding: 20px !important;
+    margin: auto !important;
+}
+#instagramSignUp{
+    max-width: 400px !important;
+    margin: auto;
+}
+

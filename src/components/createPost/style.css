@@ -1,0 +1,31 @@
+.image{
+    max-height: 570px;
+    max-width: 570px;
+    width: 100%;
+    height: 100%;
+}
+
+.caption-textarea{
+    background: transparent;
+    border: none;
+    overflow: auto;
+    resize: none;
+    padding: 4px;
+}
+
+.caption-textarea:focus { 
+    outline: none !important;
+    border-color: none;
+}
+.font-bold{
+    font-size: 15px !important;
+    color: rgba(0, 0, 0, 0.41) !important;
+}
+#btnimgClick{
+    background-color: rgb(47, 47, 242) !important;
+    font-weight: bold;
+    color: white !important;
+}
+#addBtn{
+    color: white !important;
+}

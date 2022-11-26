@@ -1,0 +1,11 @@
+.rounded-full{
+    border:  solid blue !important;
+    font-size: 33px !important;
+}
+.bg-info{
+    background: rgb(255, 255, 255);
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    top: 200px;
+}
